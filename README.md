@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Oedmafia and i'm living in Campina Grande - PB - BR, i'm 22 years old.
+- 👀 I’m interested in Developer.
+- 🌱 I’m currently learning HTML, CSS, JS, PYTHON, MSQL.
+- 📫 You can contact me through any social network through the user @oedmafia, preferably through Instagram.
