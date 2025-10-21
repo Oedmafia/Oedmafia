@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou @Oedmafia
 
-Bem-vindo ao meu perfil do GitHub! Sou um desenvolvedor apaixonado nascido em Campina Grande - PB - BR, com 24 anos de idade.
+Bem-vindo ao meu perfil do GitHub! Sou um desenvolvedor apaixonado nascido em Campina Grande - PB - BR, com 25 anos de idade.
 
 ![Developer](https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif)
 
