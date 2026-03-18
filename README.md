@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou @Oedmafia
 
-Bem-vindo ao meu perfil do GitHub! Sou um desenvolvedor apaixonado nascido em Campina Grande - PB - BR, com 25 anos de idade.
+Bem-vindo ao meu perfil! Sou um desenvolvedor full stack apaixonado nascido em Campina Grande - PB - BR, com 26 anos de idade.
 
 ![Developer](https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif)
 
@@ -8,12 +8,13 @@ Bem-vindo ao meu perfil do GitHub! Sou um desenvolvedor apaixonado nascido em Ca
 
 ## 👨‍💻 Sobre Mim
 
-Tenho dedicado meu tempo e energia ao desenvolvimento de software, concentrando-me principalmente em Python com Flask para construir aplicativos web robustos e escaláveis. Além disso, sou proficiente em:
+Tenho dedicado meu tempo e energia ao desenvolvimento de software, concentrando-me principalmente em Python para construir aplicativos web robustos e escaláveis. Além disso, sou proficiente em:
 
 - **Frontend**: HTML, CSS (incluindo Bootstrap), JavaScript
 - **Backend**: Python (Flask)
 - **Cloud**: Firebase, Google Cloud Platform
-- **Databases**: PostgreSQL
+- **Databases**: PostgreSQL, Firebase Firestore
+- **Data**: Databricks, Grafana
 
 ## 🔧 Ferramentas e Tecnologias
 
