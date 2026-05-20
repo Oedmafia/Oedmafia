@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Edmar%20Silva&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Backend%20%26%20Data%20%26%20Automation&descAlignY=58&descSize=18&descColor=8ecae6" />
+![Developer](https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif)
 
 </div>
 
@@ -115,6 +115,6 @@ Aberto a colaborações, trocas técnicas e novas oportunidades.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" />
+![Innovation](https://media.giphy.com/media/3o7TKU8RvQuomFfUUU/giphy.gif)
 
 </div>
