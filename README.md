@@ -1,66 +1,120 @@
-# 👋 Olá! Eu sou @Oedmafia
+<div align="center">
 
-Bem-vindo ao meu perfil! Sou um desenvolvedor full stack apaixonado nascido em Campina Grande - PB - BR, com 26 anos de idade.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Edmar%20Silva&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Backend%20%26%20Data%20%26%20Automation&descAlignY=58&descSize=18&descColor=8ecae6" />
 
-![Developer](https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif)
+</div>
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-edmarsilvaa-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edmarsilvaa/)
+[![Instagram](https://img.shields.io/badge/Instagram-oedmafia-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/oedmafia)
+[![GitHub](https://img.shields.io/badge/GitHub-Oedmafia-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Oedmafia)
+
+</div>
 
 ---
 
 ## 👨‍💻 Sobre Mim
 
-Tenho dedicado meu tempo e energia ao desenvolvimento de software, concentrando-me principalmente em Python para construir aplicativos web robustos e escaláveis. Além disso, sou proficiente em:
+Sou **Mid-Level Full Stack Developer** com foco em **Backend, Dados e Automação**, atuando no setor de **iGaming e Call Center** desde fevereiro de 2024. Baseado em Campina Grande, PB – Brasil.
 
-- **Frontend**: HTML, CSS (incluindo Bootstrap), JavaScript
-- **Backend**: Python (Flask)
-- **Cloud**: Firebase, Google Cloud Platform
-- **Databases**: PostgreSQL, Firebase Firestore
-- **Data**: Databricks, Grafana
+Construo soluções internas que realmente importam: CRMs, pipelines de dados, automações com n8n e dashboards analíticos. Sou apaixonado por código limpo, processos confiáveis e ferramentas que aumentam a produtividade de quem usa.
 
-## 🔧 Ferramentas e Tecnologias
+> *"Automação não é apenas código — é entender a regra de negócio, os detalhes do processo e transformar tudo isso em dados confiáveis."*
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+---
+
+## 🚀 Stack Principal
+
+### Backend & Data
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+
+### Cloud & Automação
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 ---
 
 ## 💼 Experiência
 
-### Join Us - Contact Center 🌐
-**Junior Full Stack Developer**  
-_Fev 2024 - Presente | Campina Grande, Paraíba, Brasil_
+### BPX GROUP — Bets Sports Group
 
-- **Tecnologias Utilizadas**: 
-  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-  ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
-  ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-  ![Google App Engine](https://img.shields.io/badge/-Google%20App%20Engine-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+**🟢 Mid-Level Full Stack Developer** *(Abr 2026 – Presente | Campina Grande, PB – Híbrido)*
 
-- **Responsabilidades**:
-  - Desenvolver e implementar soluções robustas utilizando Python, JavaScript, HTML e CSS.
-  - Utilizar frameworks como Flask e Bootstrap para criar aplicações web dinâmicas e responsivas.
-  - Integrar Firebase e realizar deploy de aplicações na Google App Engine para garantir escalabilidade e desempenho ideal.
-  - Colaborar com equipes multifuncionais para analisar requisitos, arquitetar soluções e implementar aplicações com diversas funcionalidades.
-  - Manter-se atualizado com as tecnologias emergentes e as melhores práticas da indústria para aprimorar continuamente os processos de desenvolvimento.
+- Desenvolvimento e evolução de sistemas internos voltados para operações financeiras e análise de dados
+- Aplicações web com Python, Flask, HTML/CSS/JS, com deploy no Google Cloud App Engine
+- Integrações entre bancos relacionais (PostgreSQL, SQLite) e NoSQL (Firestore/Firebase)
+- Desenvolvimento de pipelines ETL/ELT conectando fontes de dados a ferramentas analíticas
+- Automação de fluxos com **n8n**, eliminando tarefas manuais recorrentes
+- Colaboração com equipes de produto, design e operações
+
+---
+
+**🔵 Full Stack Developer** *(Fev 2024 – Abr 2026 | Campina Grande, PB – Presencial)*
+
+- Criação do zero de um **CRM interno** para análise manual de transações financeiras — hoje usado por múltiplos times, aumentando confiabilidade dos dados
+- Deploy de aplicações na Google Cloud App Engine
+- Integração n8n + Databricks + Grafana para automação de relatórios
+- Boas práticas de código limpo e manutenibilidade em todos os projetos
+
+---
+
+**🟡 Focal Analyst** *(Ago 2023 – Fev 2024)*
+
+- Referência técnica e operacional da equipe de analistas de saques
+- Suporte a supervisores na gestão de fluxo, critérios e políticas
+- Uso de Python e Google Sheets para análise e organização de dados
+
+---
+
+## 🛠️ Projetos em Destaque
+
+> *Em breve: repositórios públicos com automações, pipelines de dados e ferramentas internas.*
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Oedmafia&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Oedmafia&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 🎓 Formação
+
+- 🎓 **Tecnólogo em Análise e Desenvolvimento de Sistemas** — UniFatecie *(2023–2024)*
+- 📚 **Bacharelado em Ciência da Computação** — Cruzeiro do Sul Virtual *(em andamento)*
 
 ---
 
 ## 📫 Contato
 
-Estou sempre aberto a novas oportunidades de colaboração e aprendizado. Você pode me encontrar em várias redes sociais com o usuário @oedmafia, com preferência pelo [Instagram](https://instagram.com/oedmafia) ou [Linkedin](https://www.linkedin.com/in/edmarsilvaa/) para contato.
+Aberto a colaborações, trocas técnicas e novas oportunidades.
+
+📧 Me encontre como **@oedmafia** nas redes sociais — prefiro contato pelo [LinkedIn](https://www.linkedin.com/in/edmarsilvaa/) ou [Instagram](https://instagram.com/oedmafia).
 
 ---
 
-Vamos construir soluções inovadoras juntos! 🚀
+<div align="center">
 
-![Innovation](https://media.giphy.com/media/3o7TKU8RvQuomFfUUU/giphy.gif)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" />
+
+</div>
