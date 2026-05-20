@@ -91,8 +91,12 @@ Construo soluções internas que realmente importam: CRMs, pipelines de dados, a
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Oedmafia&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Oedmafia&layout=compact&theme=tokyonight&hide_border=true)
+[![GitHub followers](https://img.shields.io/github/followers/Oedmafia?style=for-the-badge&logo=github&label=Followers&color=181717)](https://github.com/Oedmafia)
+[![GitHub stars](https://img.shields.io/github/stars/Oedmafia?style=for-the-badge&logo=github&label=Stars&color=f0c040)](https://github.com/Oedmafia)
+
+![Python](https://img.shields.io/badge/Top%20Lang-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/Frontend-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/Database-SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 </div>
 
@@ -101,7 +105,7 @@ Construo soluções internas que realmente importam: CRMs, pipelines de dados, a
 ## 🎓 Formação
 
 - 🎓 **Tecnólogo em Análise e Desenvolvimento de Sistemas** — UniFatecie *(2023–2024)*
-- 📚 **Bacharelado em Ciência da Computação** — Cruzeiro do Sul Virtual *(em andamento)*
+
 
 ---
 
